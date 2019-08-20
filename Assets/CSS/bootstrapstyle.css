@@ -104,3 +104,12 @@ p{
 footer {
     background-color: black;
 }
+
+#mainJumbo,
+#mainNav {
+    text-align: center;
+}
+
+#mainNav {
+    float: left;
+}

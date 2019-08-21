@@ -112,4 +112,17 @@ footer {
 
 #mainNav {
     float: left;
+    padding-left: 90px;
+}
+
+.lead {
+    padding-right: 30px;
+}
+
+.display-4 {
+    padding-left: 40px;
+}
+
+#mainJumbo {
+    padding-top: 140px;
 }
